@@ -11,4 +11,4 @@ A web application used to tranfer virtual money between multiple users and also 
 
 
 # website link
-https://github.com/shubhamingale87/Banking-System.github.io
+https://github.com/shubhamingale87/Basic-Banking-System.github.io
